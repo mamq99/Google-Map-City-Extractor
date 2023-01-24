@@ -8,8 +8,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # File path with file name
-filename = r"C:\Users\Abdul Manan Qureshi\Downloads\countries-states-cities-database-master\csv\cities2.csv"
-file2 = r"C:\Users\Abdul Manan Qureshi\Downloads\countries-states-cities-database-master\csv\new_city.csv"
+filename = r"C:\downloads\cities2.csv"
+file2 = r"C:\downloads\new_city.csv"
 
 # An empty list which would hold the information fetched regarding cities
 city_list = []
