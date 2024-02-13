@@ -29,7 +29,6 @@ Sources Used:
 1. All Cities coordinates data (a .csv file downloaded online)
 2. Visual Studio code
 3. Python
-4. My brain, time and energy :P
 
 NOTE: This my first repository on Github. kinda excited! 
 please let me know if there are any errors as there is always room for improvement. ^_^
